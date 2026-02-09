@@ -1,0 +1,12 @@
+.register-form {
+  max-width: 600px;
+  background: #f8f8ff;
+  border-radius: 15px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+}
+input, select {
+  border-radius: 8px;
+}
+button {
+  border-radius: 8px;
+}
